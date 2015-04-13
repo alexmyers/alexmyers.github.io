@@ -1,4 +1,2 @@
-# alexmyers.github.io
-GitHub Pages
-
-PAGES
+# aandnota
+new media art and nonsense
